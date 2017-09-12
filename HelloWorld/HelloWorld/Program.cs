@@ -12,7 +12,7 @@ namespace HelloWorld
         {
             //20170912
             Console.WriteLine("test");
-            Console.WriteLine("this is for V2.0");
+            Console.WriteLine("this is for V3.0");
             Console.ReadLine();
 
         }
